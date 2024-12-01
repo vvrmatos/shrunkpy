@@ -1,2 +1,2 @@
-# shrunkpy
+# Shrunkpy
 Terminal based image shrinking program
